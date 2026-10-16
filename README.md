@@ -18,13 +18,13 @@
 
 <p align="center">
   <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankedu02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankedu02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=shashankedu02&theme=tokyonight&hide_border=true" width="97%" />
 </p>

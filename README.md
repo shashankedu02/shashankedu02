@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there, I'm <Shashank> 👋
 
+<!-- Typing Header Widget -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open-Source+Contributor;Always+Learning!&font=Fira+Code&center=true&width=500&height=50" alt="Typing SVG" />
+</a>
 <!--
 **shashankedu02/shashankedu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

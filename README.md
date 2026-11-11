@@ -1,30 +1,30 @@
-# Hi there, I'm Shashank 👋
+# Shashank Aradhya
 
-<!-- Typing Header Widget -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open-Source+Contributor;Always+Learning!&font=Fira+Code&center=true&width=500&height=50" alt="Typing SVG" />
-</a>
-<!--
-**shashankedu02/shashankedu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## 🛠️ Tech Stack & Skills
+I build practical developer tools with Python, FastAPI, React, TypeScript, and SQLite. My recent work focuses on security checks, API reliability, and clear local-first workflows.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Featured work
 
-## 📊 GitHub Analytics
+| Project | What it demonstrates |
+| --- | --- |
+| [CloudSentinel](https://github.com/shashankedu02/CloudDoctor) | AWS IAM policy analysis with deterministic security rules, explainable findings, FastAPI, SQLite, React, and TypeScript. |
+| [APIWatch](https://github.com/shashankedu02/APIWatch) | Local API health monitoring with on-demand checks, history, dashboards, and SSRF-aware URL validation. |
+| [GitHub Trends Checker](https://github.com/shashankedu02/github-trends-checker) | A Python CLI that queries the GitHub REST API for popular repositories by language. |
 
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankedu02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankedu02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## Working with
 
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com/?user=shashankedu02&theme=tokyonight&hide_border=true" width="97%" />
-</p>
+`Python` · `FastAPI` · `React` · `TypeScript` · `SQLite` · `REST APIs` · `Git`
+
+## What I care about
+
+- Building features that can be run and checked locally
+- Keeping security-sensitive behavior explicit and documented
+- Writing small, understandable services with useful error handling
+- Turning technical signals into interfaces developers can act on
+
+## Current focus
+
+Improving the engineering depth and presentation of full-stack developer tools for DevForge 2026.
+
+---
+
+The project READMEs contain setup steps, API details, architecture notes, and known limitations.

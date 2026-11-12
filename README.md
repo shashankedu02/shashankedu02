@@ -6,7 +6,7 @@ I build practical developer tools with Python, FastAPI, React, TypeScript, and S
 
 | Project | What it demonstrates |
 | --- | --- |
-| [CloudSentinel](https://github.com/shashankedu02/CloudDoctor) | AWS IAM policy analysis with deterministic security rules, explainable findings, FastAPI, SQLite, React, and TypeScript. |
+| [CloudDoctor](https://github.com/shashankedu02/CloudDoctor) | AWS IAM policy analysis with deterministic security rules, explainable findings, FastAPI, SQLite, React, and TypeScript. |
 | [APIWatch](https://github.com/shashankedu02/APIWatch) | Local API health monitoring with on-demand checks, history, dashboards, and SSRF-aware URL validation. |
 | [GitHub Trends Checker](https://github.com/shashankedu02/github-trends-checker) | A Python CLI that queries the GitHub REST API for popular repositories by language. |
 

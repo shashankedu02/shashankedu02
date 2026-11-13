@@ -1,4 +1,4 @@
-# Shashank Aradhya
+#BS Shashank Aradhya
 
 I build practical developer tools with Python, FastAPI, React, TypeScript, and SQLite. My recent work focuses on security checks, API reliability, and clear local-first workflows.
 
